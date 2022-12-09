@@ -1,6 +1,6 @@
 "# web_scraping_python" 
 
-Web Scraping with Python where we first scrape the url of the description page for every item in a category on an ecommerce site, and then scrape each url for that item's details. We then save the data in a csv.
+Web Scraping with Python where we first scrape the url for every item in a category on an ecommerce site. Then scrape each url for that item's details and save the data to a csv.
 
 Technologies used: Python, BeautifulSoup, requests, csv
 
